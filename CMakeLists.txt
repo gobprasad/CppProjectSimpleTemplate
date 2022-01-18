@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.20)
+cmake_minimum_required(VERSION 3.15)
 
 # Project Name, TODO Make sure to change this
 project(SampleApp VERSION 1.0)
